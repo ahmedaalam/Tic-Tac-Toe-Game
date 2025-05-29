@@ -4,9 +4,13 @@
   
 Features:
 3×3 grid for two players (X and O)
+
 Turn-based gameplay
+
 Win and draw detection
+
 Game reset functionality
+
 Clean and responsive UI
 
 Perfect for beginners learning web development and DOM manipulation.</p>
