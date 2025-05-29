@@ -1,9 +1,10 @@
-# Tic-Tac-Toe-Game
+# 🕹️ Tic-Tac-Toe-Game
 <h1>💫 About Project</h1>
 <p>A simple and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript.
   
 Features:
-3×3 grid for two players (X and O)
+
+3×3 grid for two players
 
 Turn-based gameplay
 
